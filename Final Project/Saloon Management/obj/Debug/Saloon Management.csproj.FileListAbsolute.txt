@@ -1,0 +1,15 @@
+D:\Final Project\Saloon Management\bin\Debug\Saloon Management.exe.config
+D:\Final Project\Saloon Management\bin\Debug\Saloon Management.exe
+D:\Final Project\Saloon Management\bin\Debug\Saloon Management.pdb
+D:\Final Project\Saloon Management\obj\Debug\Saloon Management.csproj.AssemblyReference.cache
+D:\Final Project\Saloon Management\obj\Debug\Saloon_Management.AdminForm.resources
+D:\Final Project\Saloon Management\obj\Debug\Saloon_Management.BarberForm.resources
+D:\Final Project\Saloon Management\obj\Debug\Saloon_Management.InsertForm.resources
+D:\Final Project\Saloon Management\obj\Debug\Saloon_Management.LoginForm.resources
+D:\Final Project\Saloon Management\obj\Debug\Saloon_Management.Properties.Resources.resources
+D:\Final Project\Saloon Management\obj\Debug\Saloon_Management.RecordForm.resources
+D:\Final Project\Saloon Management\obj\Debug\Saloon Management.csproj.GenerateResource.cache
+D:\Final Project\Saloon Management\obj\Debug\Saloon Management.csproj.CoreCompileInputs.cache
+D:\Final Project\Saloon Management\obj\Debug\Saloon Management.exe
+D:\Final Project\Saloon Management\obj\Debug\Saloon Management.pdb
+D:\Final Project\Saloon Management\obj\Debug\Saloon Management.exe.config
